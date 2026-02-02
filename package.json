@@ -1,0 +1,19 @@
+{
+  "name": "vault-ops-note-lint",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --watch",
+    "test": "node --test",
+    "package": "bash ./scripts/package.sh"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "obsidian": "^1.6.7",
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.2"
+  }
+}

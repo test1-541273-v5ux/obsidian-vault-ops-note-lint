@@ -1,0 +1,32 @@
+{
+  "platformId": "obsidian_plugin",
+  "productSlug": "vault-ops-note-lint",
+  "version": "0.1.1",
+  "files": {
+    "artifactZip": "artifact.zip",
+    "listing": "marketplace-listing.md",
+    "title": "marketplace-title.txt",
+    "short": "marketplace-short.txt",
+    "tags": "marketplace-tags.json",
+    "keywords": "marketplace-keywords.json",
+    "faq": "marketplace-faq.md",
+    "securityPrivacy": "security-privacy.md",
+    "checklist": "packaging-checklist.md",
+    "releaseNotes": "release-notes.md"
+  },
+  "buildCommands": [
+    "npm install",
+    "npm run build",
+    "npm test"
+  ],
+  "submissionSteps": [
+    "Review the bundle at /Users/hleb/Фабрика фабрик/generated/p1-obs/obsidian_plugin-vault-ops/vault-ops-note-lint/dist-submission.",
+    "Upload artifact.zip.",
+    "Fill listing fields using marketplace-title.txt, marketplace-short.txt, marketplace-tags.json, marketplace-keywords.json, marketplace-faq.md, and marketplace-listing.md.",
+    "Attach packaging-checklist.md and security-privacy.md.",
+    "Attach release-notes.md and confirm version/changelog consistency.",
+    "Adapter note: Generated plugin includes one command and a settings tab scaffold.",
+    "Adapter note: Replace placeholder settings logic with product-specific options.",
+    "Submit in marketplace sandbox and validate before production publish."
+  ]
+}

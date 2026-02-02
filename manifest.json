@@ -1,0 +1,10 @@
+{
+  "id": "vault-ops-note-lint",
+  "name": "Vault Ops - Note Lint",
+  "version": "0.1.1",
+  "minAppVersion": "1.5.0",
+  "description": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel.",
+  "author": "YourCompany",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}

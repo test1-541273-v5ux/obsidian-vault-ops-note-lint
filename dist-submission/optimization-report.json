@@ -1,0 +1,109 @@
+{
+  "productDir": "/Users/hleb/Фабрика фабрик/generated/p1-obs/obsidian_plugin-vault-ops/vault-ops-note-lint",
+  "platform": "obsidian_plugin",
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "maxShort": 140,
+  "selectedVariant": 0,
+  "selectedScore": 100,
+  "selectedValid": true,
+  "applyBest": true,
+  "listingUpdated": true,
+  "candidates": [
+    {
+      "variantId": 0,
+      "title": "Vault Ops - Note Lint",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel.",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (129)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    },
+    {
+      "variantId": 1,
+      "title": "vault ops - note lint pro",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…\nReduce publishing friction across marketplace queues. Focus: Hygiene Ops.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (140)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    },
+    {
+      "variantId": 2,
+      "title": "vault ops - note lint toolkit",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Built for…",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Built for…\nShip faster with cleaner workflows. Focus: Capture Tool.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (140)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    },
+    {
+      "variantId": 3,
+      "title": "vault ops - note lint pro",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…\nTurn one config into repeatable release bundles. Focus: Vault Tool Tool.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (140)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    },
+    {
+      "variantId": 4,
+      "title": "vault ops - note lint pro",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Ready for…\nBuilt for manual submission ops with deterministic outputs. Focus: Knowledge Ops.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (140)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    },
+    {
+      "variantId": 5,
+      "title": "obsidian vault ops - note lint",
+      "short": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Focused o…",
+      "hook": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Focused o…\nShip faster with cleaner workflows. Focus: Panel Workflow.",
+      "score": 100,
+      "valid": true,
+      "reasons": [
+        "+10 keywords present (20)",
+        "+10 tags coverage is strong (25)",
+        "+10 short description length is strong (140)",
+        "+15 listing has all required sections",
+        "+10 screenshots present (3)",
+        "+0 pricing model is free"
+      ]
+    }
+  ]
+}

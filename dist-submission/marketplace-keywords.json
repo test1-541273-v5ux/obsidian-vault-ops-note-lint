@@ -1,0 +1,104 @@
+{
+  "primaryKeywords": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops"
+  ],
+  "secondaryKeywords": [
+    "vault-tool",
+    "tasks",
+    "capture",
+    "palette-tool",
+    "and-tool",
+    "panel-tool",
+    "delivers-tool",
+    "ui-settings",
+    "run",
+    "obsidian_plugin"
+  ],
+  "tags": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops",
+    "vault-tool",
+    "tasks",
+    "capture",
+    "palette-tool",
+    "and-tool",
+    "panel-tool",
+    "delivers-tool",
+    "ui-settings",
+    "run",
+    "obsidian_plugin",
+    "obsidian-plugin",
+    "palette",
+    "analytics-events",
+    "markdown"
+  ],
+  "synonyms": {
+    "run": [
+      "run-ops",
+      "run-workflow",
+      "run-tool"
+    ],
+    "obsidian_plugin": [
+      "obsidianplugin-ops",
+      "obsidianplugin-workflow",
+      "obsidianplugin-tool"
+    ],
+    "palette": [
+      "palette-ops",
+      "palette-workflow",
+      "palette-tool"
+    ],
+    "writing": [
+      "writing-ops",
+      "writing-workflow",
+      "writing-tool"
+    ],
+    "analytics-events": [
+      "analytics-events-ops",
+      "analytics-events-workflow",
+      "analytics-events-tool"
+    ],
+    "markdown": [
+      "markdown-ops",
+      "markdown-workflow",
+      "markdown-tool"
+    ],
+    "lint": [
+      "lint-ops",
+      "lint-workflow",
+      "lint-tool"
+    ],
+    "panel": [
+      "panel-ops",
+      "panel-workflow",
+      "panel-tool"
+    ],
+    "notes": [
+      "documents",
+      "entries",
+      "knowledge"
+    ],
+    "productivity": [
+      "focus",
+      "efficiency",
+      "workflow"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel. Built for…
+Ship faster with cleaner workflows. Focus: Capture Tool.

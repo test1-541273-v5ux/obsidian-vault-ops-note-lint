@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-02-02T22:15:58.964Z",
+  "product": {
+    "slug": "vault-ops-note-lint",
+    "name": "Vault Ops - Note Lint",
+    "description": "Vault Ops - Note Lint handles markdown writing hygiene with command palette run and delivers lint issues summary as notice panel.",
+    "version": "0.1.1",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "obsidian_plugin",
+    "productType": "plugin"
+  },
+  "modules": [
+    "ui_settings",
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "obsidian",
+      "vault",
+      "maintenance",
+      "writing",
+      "hygiene",
+      "productivity",
+      "pkm",
+      "knowledge",
+      "notes",
+      "ops",
+      "note",
+      "lint",
+      "markdown",
+      "command",
+      "palette",
+      "run",
+      "issues",
+      "summary",
+      "notice",
+      "panel"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "obsidian_plugin",
+    "displayName": "Obsidian Community Plugin",
+    "kind": "plugin"
+  }
+}
